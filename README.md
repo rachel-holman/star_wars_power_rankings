@@ -1,5 +1,6 @@
 # Definitive Star Wars Movie Power Rankings
 ## Forked by Rachel Holman
+### And edited in VS Code
 
 1. Star Wars: A New Hope
 2. Star Wars: The Empire Strikes Back
